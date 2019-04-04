@@ -31,21 +31,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Read faster than ever
-    description                           : Finish your reading list in record time! Accelerator helps you read articles from the web at superhuman speeds.
-    fontawesome_icon_name                 : magic
-
   - title                                 : Your reading list, but faster
     description                           : Sync your Instapaper and Pocket accounts to speed read your saved articles in Accelerator.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : clock
 
   - title                                 : Read articles from the web
     description                           : Browse and save articles to read from anywhere on iOS using the action extension or your clipboard.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : book
 
   - title                                 : Make it custom
     description                           : Multiple themes, fonts, text sizes, and speeds for comfortable reading just the way you like it.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
 
 
 
