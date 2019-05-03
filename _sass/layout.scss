@@ -463,6 +463,7 @@ footer {
 	flex-wrap: wrap;
 	justify-content: center;
 	align-content: center;
+	padding-top: 70px;
 }
 
 .footerText {
@@ -471,7 +472,6 @@ footer {
 	line-height: 1.5;
 	width: 100%;
 	text-align: center;
-	padding-top: 70px;
 }
 
 .footerIcons {
@@ -482,13 +482,14 @@ footer {
 
 @media only screen and (max-width: 992px) {
 
+	footer { padding-top: 54px; }
+
 	.footerText {
 		color: $footer-text-color;
 		display: block;
 		line-height: 1.5;
 		width: 100%;
 		text-align: center;
-		padding-top: 54px;
 	}
 
 	.footerIcons {
